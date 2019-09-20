@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner Tests renders MainPage without crashing 1`] = `"<div style={{...}} className=\\"icons\\" />"`;
